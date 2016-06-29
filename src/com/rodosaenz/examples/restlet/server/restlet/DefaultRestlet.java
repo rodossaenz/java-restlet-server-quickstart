@@ -6,10 +6,6 @@ import org.restlet.Response;
 import org.restlet.Restlet;
 import org.restlet.data.MediaType;
 
-/**
- *
- * @author Rodolfo
- */
 public class DefaultRestlet extends Restlet {
 
     public DefaultRestlet(Context context) {
