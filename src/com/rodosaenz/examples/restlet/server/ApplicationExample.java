@@ -8,11 +8,7 @@ import org.restlet.Application;
 import org.restlet.Restlet;
 import org.restlet.routing.Router;
 
-/**
- *
- * @author Rodolfo
- */
-public class ResletApplicationExample extends Application {
+public class ApplicationExample extends Application {
     
 
     @Override
