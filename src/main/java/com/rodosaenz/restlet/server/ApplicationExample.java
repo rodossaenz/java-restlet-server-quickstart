@@ -1,9 +1,9 @@
-package com.rodosaenz.examples.restlet.server;
+package com.rodosaenz.restlet.server;
 
-import com.rodosaenz.examples.restlet.server.restlet.DefaultRestlet;
-import com.rodosaenz.examples.restlet.server.restlet.HelloRestlet;
-import com.rodosaenz.examples.restlet.server.resource.CiaoResource;
-import com.rodosaenz.examples.restlet.server.resource.HelloResource;
+import com.rodosaenz.restlet.server.restlet.DefaultRestlet;
+import com.rodosaenz.restlet.server.restlet.HelloRestlet;
+import com.rodosaenz.restlet.server.resource.CiaoResource;
+import com.rodosaenz.restlet.server.resource.HelloResource;
 import org.restlet.Application;
 import org.restlet.Restlet;
 import org.restlet.routing.Router;

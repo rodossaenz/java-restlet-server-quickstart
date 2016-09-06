@@ -1,6 +1,6 @@
-package com.rodosaenz.examples.restlet.server;
+package com.rodosaenz.restlet.server;
 
-import com.rodosaenz.examples.restlet.server.restlet.HelloRestlet;
+import com.rodosaenz.restlet.server.restlet.HelloRestlet;
 import org.restlet.Server;
 import org.restlet.data.Protocol;
 

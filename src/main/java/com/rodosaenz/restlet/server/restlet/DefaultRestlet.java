@@ -1,4 +1,4 @@
-package com.rodosaenz.examples.restlet.server.restlet;
+package com.rodosaenz.restlet.server.restlet;
 
 import org.restlet.Context;
 import org.restlet.Request;

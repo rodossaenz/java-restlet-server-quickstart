@@ -1,4 +1,4 @@
-package com.rodosaenz.examples.restlet.server.resource;
+package com.rodosaenz.restlet.server.resource;
 
 import org.restlet.resource.Get;
 import org.restlet.resource.Post;
